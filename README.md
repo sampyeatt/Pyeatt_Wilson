@@ -6,7 +6,7 @@ It also gives people a community to share and enjoy their hobby in.
 
 ### Prototype
 Here you can find the figma of our final prototype.
-https://www.figma.com/file/awzihIlqk3LohOG3AjXgcJ2z/Final-Prototype?node-id=0%3A1
+[Link] (https://www.figma.com/file/awzihIlqk3LohOG3AjXgcJ2z/Final-Prototype?node-id=0%3A1)
 
 
 ```markdown
